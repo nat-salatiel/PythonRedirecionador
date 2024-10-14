@@ -11,7 +11,7 @@ body{
     flex-wrap: 15px;
     align-items: center;
     justify-content: center;
-    background-color: rgb(243, 198, 243);
+    background-color: rgb(203, 153, 245);
 }
 
 h2, p{
@@ -21,6 +21,7 @@ h2, p{
 
 p{
     margin-bottom: 15px;
+    font-size: 18px;
 }
 
 img{
